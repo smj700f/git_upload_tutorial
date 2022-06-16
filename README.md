@@ -1,4 +1,6 @@
-- [第一次建立github需要以下動作](#恩)
+- [第一次建立github需要以下動作](#第一次建立github需要以下動作)
+- [之後要上傳只需要以下動作就好](#之後要上傳只需要以下動作就好)
+- [補充說明](#補充說明)
 ## 第一次建立github需要以下動作
 ```
 git init
@@ -20,7 +22,7 @@ git commit -m "first commit"
 git push -u origin main
 ```
 
-## 補充:
+## 補充說明
 ```
 git add -A  提交所有變化
 git add -u  提交被修改(modified)和被刪除(deleted)文件，不包括新文件(new)
